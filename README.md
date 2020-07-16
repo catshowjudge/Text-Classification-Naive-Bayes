@@ -1,1 +1,2 @@
 # Text-Classification-Naive-Bayes
+This NLP exercise explores sentiment analysis using movie reviews from Rotten Tomatoes (critics.csv). Text is cleaned and vectorized with bag-of-words and TF-IDF transformers, and both unigrams and bigrams. It uses a Naive Bayes classifier to predict whether the text of a review is "fresh" (positive) or "Rotten" (negative). It also explores topic modeling using Latent Dirichlet Allocation (LDA). The complete code is located in Mini_Project_Naive_Bayes.ipynb.
